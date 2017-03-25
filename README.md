@@ -1,2 +1,2 @@
 # phirSOFT.Bookshelve
-An ebook reader for UWO
+An ebook reader for UWP
